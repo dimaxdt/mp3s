@@ -1,0 +1,9 @@
+[playlist]
+File1=https://rus.hitmotop.com/get/music/20180128/8_Bit_Era_-_Super_Mario_Ringtone_2_53219042.mp3
+Title1=Mario 
+Lenght1=-1
+File2=https://rus.hitmotop.com/get/music/20190524/Ringtonefeeder_-_The_iPhone_Zone-Ringtone_64461028.mp3
+Title2=Ringtone 
+Lenght2=-1
+NumberOfEntries=2
+Version=2
